@@ -1,0 +1,5 @@
+Bazy Danych Medycznych
+dr. inż Jan Kowalski
+Adam Nowak 276543 4.0 2017-01-28
+Anna Wiera 269872 3.5 2017-01-25
+Tomasz Kula 271567 2.0 2017-02-10
